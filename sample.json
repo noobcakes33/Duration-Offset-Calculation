@@ -1,0 +1,243 @@
+{
+    "AudioFileResults": [
+      {
+        "AudioFileName": "Channel.0.wav",
+        "AudioFileUrl": null,
+        "SegmentResults": [
+          {
+            "RecognitionStatus": "Success",
+            "ChannelNumber": null,
+            "SpeakerId": null,
+            "Offset": 90200000,
+            "Duration": 25600000,
+            "NBest": [
+              {
+                "Confidence": 0.9415368,
+                "Lexical": "ask everybody to please take their seats",
+                "ITN": "ask everybody to please take their seats",
+                "MaskedITN": "ask everybody to please take their seats",
+                "Display": "Ask everybody to please take their seats.",
+                "Sentiment": null,
+                "Words": [
+                  {
+                    "Word": "ask",
+                    "Offset": 90500000,
+                    "Duration": 3500000
+                  },
+                  {
+                    "Word": "everybody",
+                    "Offset": 94000000,
+                    "Duration": 4400000
+                  },
+                  {
+                    "Word": "to",
+                    "Offset": 98400000,
+                    "Duration": 1200000
+                  },
+                  {
+                    "Word": "please",
+                    "Offset": 99600000,
+                    "Duration": 3000000
+                  },
+                  {
+                    "Word": "take",
+                    "Offset": 102600000,
+                    "Duration": 2400000
+                  },
+                  {
+                    "Word": "their",
+                    "Offset": 105000000,
+                    "Duration": 2400000
+                  },
+                  {
+                    "Word": "seats",
+                    "Offset": 107400000,
+                    "Duration": 8200000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "RecognitionStatus": "Success",
+            "ChannelNumber": null,
+            "SpeakerId": null,
+            "Offset": 169400000,
+            "Duration": 157500000,
+            "NBest": [
+              {
+                "Confidence": 0.944001734,
+                "Lexical": "welcome to the scheduled special budget hearings meeting of the seems like we were just here but no it's wednesday may sixteenth full complement not quite",
+                "ITN": "Welcome to the scheduled special budget hearings meeting of the seems like we were just here but no it's Wednesday May 16th full complement not quite",
+                "MaskedITN": "Welcome to the scheduled special budget hearings meeting of the seems like we were just here but no it's Wednesday May 16th full complement not quite",
+                "Display": "Welcome to the scheduled special budget hearings meeting of the seems like we were just here, but no it's Wednesday May 16th full complement not quite.",
+                "Sentiment": null,
+                "Words": [
+                  {
+                    "Word": "welcome",
+                    "Offset": 169700000,
+                    "Duration": 4500000
+                  },
+                  {
+                    "Word": "to",
+                    "Offset": 174200000,
+                    "Duration": 2600000
+                  },
+                  {
+                    "Word": "the",
+                    "Offset": 176800000,
+                    "Duration": 8600000
+                  },
+                  {
+                    "Word": "scheduled",
+                    "Offset": 186500000,
+                    "Duration": 7900000
+                  },
+                  {
+                    "Word": "special",
+                    "Offset": 194400000,
+                    "Duration": 6000000
+                  },
+                  {
+                    "Word": "budget",
+                    "Offset": 200400000,
+                    "Duration": 4400000
+                  },
+                  {
+                    "Word": "hearings",
+                    "Offset": 204800000,
+                    "Duration": 6400000
+                  },
+                  {
+                    "Word": "meeting",
+                    "Offset": 211400000,
+                    "Duration": 4800000
+                  },
+                  {
+                    "Word": "of",
+                    "Offset": 216200000,
+                    "Duration": 1600000
+                  },
+                  {
+                    "Word": "the",
+                    "Offset": 217800000,
+                    "Duration": 1300000
+                  },
+                  {
+                    "Word": "los",
+                    "Offset": 219100000,
+                    "Duration": 2300000
+                  },
+                  {
+                    "Word": "angeles",
+                    "Offset": 221400000,
+                    "Duration": 3600000
+                  },
+                  {
+                    "Word": "county",
+                    "Offset": 225000000,
+                    "Duration": 5500000
+                  },
+                  {
+                    "Word": "board",
+                    "Offset": 231800000,
+                    "Duration": 4600000
+                  },
+                  {
+                    "Word": "of",
+                    "Offset": 236400000,
+                    "Duration": 1000000
+                  },
+                  {
+                    "Word": "supervisors",
+                    "Offset": 237400000,
+                    "Duration": 9200000
+                  },
+                  {
+                    "Word": "seems",
+                    "Offset": 246600000,
+                    "Duration": 3000000
+                  },
+                  {
+                    "Word": "like",
+                    "Offset": 249600000,
+                    "Duration": 2400000
+                  },
+                  {
+                    "Word": "we",
+                    "Offset": 252000000,
+                    "Duration": 1400000
+                  },
+                  {
+                    "Word": "were",
+                    "Offset": 253400000,
+                    "Duration": 1600000
+                  },
+                  {
+                    "Word": "just",
+                    "Offset": 255000000,
+                    "Duration": 3400000
+                  },
+                  {
+                    "Word": "here",
+                    "Offset": 258400000,
+                    "Duration": 5500000
+                  },
+                  {
+                    "Word": "but",
+                    "Offset": 270200000,
+                    "Duration": 4000000
+                  },
+                  {
+                    "Word": "no",
+                    "Offset": 274200000,
+                    "Duration": 3000000
+                  },
+                  {
+                    "Word": "it's",
+                    "Offset": 277200000,
+                    "Duration": 1600000
+                  },
+                  {
+                    "Word": "wednesday",
+                    "Offset": 278800000,
+                    "Duration": 6700000
+                  },
+                  {
+                    "Word": "may",
+                    "Offset": 288600000,
+                    "Duration": 3800000
+                  },
+                  {
+                    "Word": "sixteenth",
+                    "Offset": 292400000,
+                    "Duration": 8800000
+                  },
+                  {
+                    "Word": "full",
+                    "Offset": 307200000,
+                    "Duration": 4600000
+                  },
+                  {
+                    "Word": "complement",
+                    "Offset": 311800000,
+                    "Duration": 6600000
+                  },
+                  {
+                    "Word": "not",
+                    "Offset": 318400000,
+                    "Duration": 3000000
+                  },
+                  {
+                    "Word": "quite",
+                    "Offset": 321400000,
+                    "Duration": 5300000
+                  }
+                ]
+              }
+            ]
+          }
+              ]
+            }
+          ]
+        }
